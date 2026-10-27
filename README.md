@@ -23,17 +23,11 @@ The model was trained using 3,208 development customers and evaluated on 357 hel
 
 ### Identified Consumption Segments
 
-**Cluster 0 — Weekend-Intensive / Evening-Oriented**
+`Cluster 0 — Weekend-Intensive / Evening-Oriented`: Customers exhibiting relatively higher weekend electricity consumption and greater consumption shares during evening hours.
 
-Customers exhibiting relatively higher weekend electricity consumption and greater consumption shares during evening hours.
+`Cluster 1 — Balanced / Regular`: Customers exhibiting comparatively balanced weekly consumption patterns, lower daily variability, and moderate seasonal differences.
 
-**Cluster 1 — Balanced / Regular**
-
-Customers exhibiting comparatively balanced weekly consumption patterns, lower daily variability, and moderate seasonal differences.
-
-**Cluster 2 — Winter-Dominant / High-Variability**
-
-Customers exhibiting substantially higher winter consumption relative to summer, together with greater day-to-day consumption variability.
+`Cluster 2 — Winter-Dominant / High-Variability`: Customers exhibiting substantially higher winter consumption relative to summer, together with greater day-to-day consumption variability.
 
 ### Result Snapshots
 
