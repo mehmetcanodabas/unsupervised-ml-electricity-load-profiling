@@ -1,0 +1,56 @@
+# Ignore everything by default
+*
+
+# Allow source code
+!src/
+!src/**/*.py
+
+# Allow documentation
+!*.md
+!docs/
+!docs/**
+
+# Allow dependencies
+!requirements.txt
+
+# Allow trained models
+!models/
+!models/feature_scaler.joblib
+!models/kmeans_k3.joblib
+
+# Allow selected project data
+!data/
+!data/development_customers.csv
+!data/development_features.csv
+!data/eligible_customers.csv
+!data/test_customers.csv
+!data/test_features.csv
+
+# Keep the .gitignore itself
+!.gitignore
+
+# Ignore Python temporary files
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Ignore virtual environments
+.venv/
+venv/
+
+# Ignore raw inputs
+Input files/
+raw_data/
+
+# Ignore generated intermediate outputs
+data/*_scaled.csv
+data/*_assignments.csv
+data/*_profiles.csv
+data/predicted_customers.csv
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
