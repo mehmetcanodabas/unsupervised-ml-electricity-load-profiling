@@ -39,6 +39,6 @@ Customers exhibiting substantially higher winter consumption relative to summer,
 
 [Electricity Consumption Behavioral Segments](docs/results/cluster_profiles.png): Visualization of the three K-Means clusters using median time-of-day consumption shares and weekend-to-weekday and winter-to-summer consumption ratios. The figure includes the development customer counts for each cluster.
 
-**Keywords:** Unsupervised Machine Learning, Electricity Load Profiling, Smart Meter Analytics, Energy Consumption Analysis, Customer Segmentation, K-Means Clustering, Feature Engineering, Time-of-Day Consumption, Seasonal Consumption, Energy Analytics, Scikit-learn, Python.
+**Keywords:** Unsupervised Machine Learning, Electricity Load Profiling, Smart Meter Analytics, Energy Consumption Analysis, Customer Segmentation, K-Means Clustering, Feature Engineering, Time-of-Day Consumption, Seasonal Consumption, Energy Analytics, Scikit-learn.
 
 **Data Source:** Low Carbon London (LCL) Smart Meter Electricity Consumption Dataset, half-hourly electricity measurements from 2013.
