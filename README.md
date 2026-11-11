@@ -33,6 +33,6 @@ The model was trained using 3,208 development customers and evaluated on 357 hel
 
 [Electricity Consumption Behavioral Segments](docs/results/cluster_profiles.png): Visualization of the three K-Means clusters using median time-of-day consumption shares and weekend-to-weekday and winter-to-summer consumption ratios. The figure includes the development customer counts for each cluster.
 
-**Keywords:** Unsupervised Machine Learning, Electricity Load Profiling, Smart Meter Analytics, Energy Consumption Analysis, Customer Segmentation, K-Means Clustering, Feature Engineering, Time-of-Day Consumption, Seasonal Consumption, Energy Analytics, Scikit-learn, Python.
+**Keywords:** Python, Customer Segmentation, Electricity Load Profiling, Energy Analytics, Energy Consumption Analysis, Feature Engineering, K-Means Clustering, Scikit-learn, Seasonal Consumption, Smart Meter Analytics, Time-of-Day Consumption, Unsupervised Machine Learning.
 
 **Data Source:** Low Carbon London (LCL) Smart Meter Electricity Consumption Dataset, half-hourly electricity measurements from 2013.
